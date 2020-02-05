@@ -532,6 +532,8 @@ input[type="date" i] {
 }
 
 
+
+
 /*[ Menu ]
 -----------------------------------------------------------
 */
@@ -1279,7 +1281,6 @@ input[type="date" i] {
 @media (max-width: 576px) {
   .bg-title-page .tit6 {font-size: 30px;}
 }
-
 
 
 /*[ Item mainmenu ]
